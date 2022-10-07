@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_notes",
+  "info": {
+    "displayName": "Note",
+    "icon": "sticky-note"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    },
+    "icon": {
+      "type": "boolean"
+    }
+  }
+}

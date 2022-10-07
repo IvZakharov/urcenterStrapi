@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blocks_guarantees",
+  "info": {
+    "displayName": "Guarantee",
+    "icon": "medal"
+  },
+  "options": {},
+  "attributes": {
+    "active": {
+      "type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_blocks_section_with_lists",
+  "info": {
+    "displayName": "SectionWithList",
+    "icon": "list-ul",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "text": {
+      "type": "text"
+    },
+    "listTitle": {
+      "type": "string",
+      "required": true
+    },
+    "list": {
+      "type": "enumeration",
+      "enum": [
+        "list"
+      ]
+    },
+    "sectionList": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.list"
+    }
+  }
+}

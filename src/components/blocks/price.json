@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_blocks_prices",
+  "info": {
+    "displayName": "Price",
+    "icon": "money-bill-wave-alt"
+  },
+  "options": {},
+  "attributes": {
+    "price": {
+      "type": "string",
+      "required": true
+    },
+    "additional": {
+      "type": "string"
+    },
+    "listTitle": {
+      "type": "string",
+      "required": true
+    },
+    "list": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.list"
+    }
+  }
+}

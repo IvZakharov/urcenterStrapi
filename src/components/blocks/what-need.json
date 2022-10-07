@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_what_needs",
+  "info": {
+    "displayName": "whatNeed",
+    "icon": "clipboard",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "item": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.list"
+    }
+  }
+}

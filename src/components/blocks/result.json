@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_blocks_results",
+  "info": {
+    "displayName": "result",
+    "icon": "envelope"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
