@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_blocks_benefits",
+  "info": {
+    "displayName": "Benefits",
+    "icon": "hand-paper"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
