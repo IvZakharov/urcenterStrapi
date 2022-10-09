@@ -9828,6 +9828,11 @@
     "pluralize" "^8.0.0"
     "slugify" "^1.6.5"
 
+"strapi-plugin-populate-deep@^1.0.1":
+  "integrity" "sha512-aqVUce9gB95U4BLKXFFiI20tIdZsltiYZRgjeTcPn4tbkXjYgrC1d2O7NOPXGatMIVqDaeYDIgKAn4HKpCOTFw=="
+  "resolved" "https://registry.npmjs.org/strapi-plugin-populate-deep/-/strapi-plugin-populate-deep-1.0.1.tgz"
+  "version" "1.0.1"
+
 "strapi-plugin-rest-cache@^4.0.0", "strapi-plugin-rest-cache@^4.2.4":
   "integrity" "sha512-Q//B6ni7GnrsOGMEu8RCbn0QQC2XOHcrMpXV30cb1qHJxe2lQj2ITJo6u1bTyy3Kg0lggUVYR2k8eBJm44XT4Q=="
   "resolved" "https://registry.npmjs.org/strapi-plugin-rest-cache/-/strapi-plugin-rest-cache-4.2.4.tgz"
