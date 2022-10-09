@@ -2,12 +2,13 @@
   "collectionName": "components_components_lists",
   "info": {
     "displayName": "List",
-    "icon": "list-ul"
+    "icon": "list-ul",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "item": {
-      "type": "string"
+      "type": "text"
     }
   }
 }
