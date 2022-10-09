@@ -16,7 +16,7 @@
     },
     "listTitle": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "list": {
       "type": "enumeration",
