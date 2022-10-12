@@ -2,17 +2,11 @@
   "collectionName": "components_blocks_prices",
   "info": {
     "displayName": "Price",
-    "icon": "money-bill-wave-alt"
+    "icon": "money-bill-wave-alt",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "price": {
-      "type": "string",
-      "required": true
-    },
-    "additional": {
-      "type": "string"
-    },
     "listTitle": {
       "type": "string",
       "required": true
@@ -21,6 +15,12 @@
       "type": "component",
       "repeatable": true,
       "component": "components.list"
+    },
+    "price": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.price-item",
+      "required": true
     }
   }
 }
