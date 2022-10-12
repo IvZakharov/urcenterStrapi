@@ -7,10 +7,10 @@
   },
   "options": {},
   "attributes": {
-    "item": {
+    "list": {
       "type": "component",
       "repeatable": true,
-      "component": "components.list"
+      "component": "components.list-with-t-itle"
     }
   }
 }

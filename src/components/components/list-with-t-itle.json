@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_components_list_with_t_itles",
+  "info": {
+    "displayName": "listWithTItle"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

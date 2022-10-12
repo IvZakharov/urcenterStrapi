@@ -18,16 +18,15 @@
       "type": "string",
       "required": false
     },
-    "list": {
-      "type": "enumeration",
-      "enum": [
-        "list"
-      ]
-    },
-    "sectionList": {
+    "rightList": {
       "type": "component",
       "repeatable": true,
       "component": "components.list"
+    },
+    "leftList": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.list-with-t-itle"
     }
   }
 }
