@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_blocks_price_tables",
+  "info": {
+    "displayName": "Price table",
+    "icon": "table",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "tabelItem": {
+      "displayName": "tableRow",
+      "type": "component",
+      "repeatable": true,
+      "component": "components.table-row"
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

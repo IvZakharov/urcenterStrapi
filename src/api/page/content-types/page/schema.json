@@ -38,7 +38,8 @@
         "blocks.price",
         "blocks.result",
         "blocks.what-need",
-        "blocks.benefits"
+        "blocks.benefits",
+        "blocks.price-table"
       ]
     },
     "seo": {

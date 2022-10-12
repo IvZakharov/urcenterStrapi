@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_components_table_prices",
+  "info": {
+    "displayName": "TablePrice",
+    "icon": "money-bill-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "economyPrice": {
+      "type": "string",
+      "required": true
+    },
+    "standartPrice": {
+      "type": "string",
+      "required": true
+    },
+    "fullPrice": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
