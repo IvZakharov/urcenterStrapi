@@ -19,6 +19,11 @@
     },
     "text": {
       "type": "text"
+    },
+    "price": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.table-price"
     }
   }
 }
