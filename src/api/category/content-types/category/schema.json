@@ -38,6 +38,10 @@
       "relation": "oneToMany",
       "target": "api::page.page",
       "mappedBy": "category"
+    },
+    "position": {
+      "type": "integer",
+      "required": true
     }
   }
 }
