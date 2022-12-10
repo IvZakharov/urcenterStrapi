@@ -26,6 +26,12 @@
     },
     "addressLink": {
       "type": "string"
+    },
+    "whatsApp": {
+      "type": "string"
+    },
+    "whatsAppLink": {
+      "type": "string"
     }
   }
 }
